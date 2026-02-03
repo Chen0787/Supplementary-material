@@ -79,5 +79,4 @@ Required R packages: `readxl`, `dplyr`, `tidyr`, `lme4`, `lmerTest`, `emmeans`, 
 
 ## Contact
 
-**ZENG Tao**, College of Foreign Languages, Hunan University, Changsha 410082, China  
-taozengclarry@hnu.edu.cn
+Due to double-blind review requirements, author contact information is temporarily withheld.
