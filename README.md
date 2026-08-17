@@ -1,13 +1,13 @@
-# L2 Reading Time Data: VP Ellipsis and UID Hypothesis
+# Data from: "Uniform Information Density Effects on Redundancy Processing at the Syntax-Discourse Interface" – Naturalness rating and self-paced reading data from Chinese EFL learners
 
 ## Overview
 
-This repository provides datasets and R scripts for analyzing self-paced reading times from Chinese EFL learners, investigating verb phrase (VP) repetition and ellipsis, adapted from Schäfer et al. (2021).  
+This repository provides the full dataset and R analysis scripts for the study titled 'Uniform Information Density Effects on Redundancy Processing at the Syntax-Discourse Interface'. It includes naturalness rating data (Experiment 1) and self-paced reading time data (Experiment 2) from Chinese EFL learners, investigating VP repetition and ellipsis, adapted from Schäfer et al. (2021).
 
 Data include word-level and VP-region reading times, trial information, and participant-level measures (working memory, L2 proficiency). Scripts reproduce residualized reading time analyses and generate publication-ready figures.
 
 For full details, see:  
-**"Testing Uniform Information Density in Second Language Comprehension: Evidence from Verb Phrase Ellipsis."**
+**"Uniform Information Density Effects on Redundancy Processing at the Syntax-Discourse Interface"**
 
 ## Repository Contents
 
