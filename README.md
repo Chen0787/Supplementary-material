@@ -1,4 +1,4 @@
-# Data from: "Uniform Information Density Effects on Redundancy Processing at the Syntax-Discourse Interface" – Naturalness rating and self-paced reading data from Chinese EFL learners
+# Data from: "Uniform Information Density Effects on Redundancy Processing at the Syntax-Discourse Interface" – behavioral data
 
 ## Overview
 
