@@ -16,6 +16,7 @@ For full details, see:
 - `/data/experiment2_data.csv` — Experiment 2 raw data (anonymized)  
 
 ### Scripts
+- `/scripts/experiment1_analysis.R` — R script for Experiment 1 analyses  
 - `/scripts/experiment2_analysis.R` — R script for Experiment 2 analyses  
 
 ### Materials
